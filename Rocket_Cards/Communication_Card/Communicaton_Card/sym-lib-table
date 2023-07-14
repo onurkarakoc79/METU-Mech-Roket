@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name arduino)(type Legacy)(uri "/home/onurkarakoc79/Documents/METU MECH ROCKET/Footprints/arduino-kicad-library-master/arduino.lib")(options "")(descr ""))
+  (lib (name xl4015)(type Legacy)(uri "/home/onurkarakoc79/Documents/METU MECH ROCKET/Footprints/KiCad-master/XL4015_step_down_converter/XL4015_converter_lib/xl4015.lib")(options "")(descr ""))
+  (lib (name Sim800L)(type Legacy)(uri "/home/onurkarakoc79/Documents/METU MECH ROCKET/Footprints/SIM800L-Core-Module-KiCad-Footprint-main/Sim800L.lib")(options "")(descr ""))
+  (lib (name ch376_USB)(type Legacy)(uri "/home/onurkarakoc79/Documents/METU MECH ROCKET/Footprints/CH376_USB/ch376_USB.lib")(options "")(descr ""))
+  (lib (name SMA_CONNECTOR)(type Legacy)(uri "/home/onurkarakoc79/Documents/METU MECH ROCKET/Footprints/SMA_CONN/SMA_CONNECTOR.lib")(options "")(descr ""))
+  (lib (name Communicaton_Card-rescue)(type Legacy)(uri ${KIPRJMOD}/Communicaton_Card-rescue.lib)(options "")(descr ""))
+)

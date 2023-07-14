@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name BME280)(type KiCad)(uri "/home/onurkarakoc79/Documents/METU MECH ROCKET/Footprints/BME280/BME280.pretty")(options "")(descr ""))
+  (lib (name Arduino)(type KiCad)(uri "/home/onurkarakoc79/Documents/METU MECH ROCKET/Footprints/arduino-kicad-library-master/Arduino.pretty")(options "")(descr ""))
+  (lib (name XL4015_converter)(type KiCad)(uri "/home/onurkarakoc79/Documents/METU MECH ROCKET/Footprints/KiCad-master/XL4015_step_down_converter/XL4015_converter.pretty")(options "")(descr ""))
+  (lib (name DS18B20)(type KiCad)(uri "/home/onurkarakoc79/Documents/METU MECH ROCKET/Footprints/DS18B_Temp/DS18B20.pretty")(options "")(descr ""))
+  (lib (name Neo_M8N)(type KiCad)(uri "/home/onurkarakoc79/Documents/METU MECH ROCKET/Footprints/Neo_M8N/Neo_M8N.pretty")(options "")(descr ""))
+  (lib (name BMP180)(type KiCad)(uri "/home/onurkarakoc79/Documents/METU MECH ROCKET/Footprints/BMP180/BMP180.pretty")(options "")(descr ""))
+)

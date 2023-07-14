@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name BME280)(type Legacy)(uri "/home/onurkarakoc79/Documents/METU MECH ROCKET/Footprints/BME280/BME280.lib")(options "")(descr ""))
+  (lib (name arduino)(type Legacy)(uri "/home/onurkarakoc79/Documents/METU MECH ROCKET/Footprints/arduino-kicad-library-master/arduino.lib")(options "")(descr ""))
+  (lib (name xl4015)(type Legacy)(uri "/home/onurkarakoc79/Documents/METU MECH ROCKET/Footprints/KiCad-master/XL4015_step_down_converter/XL4015_converter_lib/xl4015.lib")(options "")(descr ""))
+  (lib (name DS18B20_Temperture)(type Legacy)(uri "/home/onurkarakoc79/Documents/METU MECH ROCKET/Footprints/DS18B_Temp/DS18B20_Temperture.lib")(options "")(descr ""))
+  (lib (name Neo_M8N)(type Legacy)(uri "/home/onurkarakoc79/Documents/METU MECH ROCKET/Footprints/Neo_M8N/Neo_M8N.lib")(options "")(descr ""))
+  (lib (name BMP180)(type Legacy)(uri "/home/onurkarakoc79/Documents/METU MECH ROCKET/Footprints/BMP180/BMP180.lib")(options "")(descr ""))
+)
